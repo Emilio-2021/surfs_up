@@ -15,14 +15,14 @@ The average temperature is 74.94 degrees Fahrenheit
 The minimum temperature is 64 degrees Fahrenheit
 The maximum temperature is 85 degrees Fahrenheit
 
-img
+<img width="150" alt="Junetemps" src="https://user-images.githubusercontent.com/16723095/127360464-95291b4f-7c98-4de5-b6bf-6a88349394dd.png">
 
 ### December
 The average temperature is 71.04 degrees Fahrenheit
 The minimum temperature is 56 degrees Fahrenheit
 The maximum temperature is 83 degrees Fahrenheit
 
-img
+<img width="173" alt="Dectemps" src="https://user-images.githubusercontent.com/16723095/127360499-e351e807-92bd-4b29-9859-ff49158ec894.png">
 
 ## Summary
 There is an enjoyable average temperature in the months of June and December which are 6 months apart from each other which let me to the idea that for most months of the year there will be enjoyable temperature for visitors to come and use the surf shop, it looks to me that opening a surf shop would be a good investment.
@@ -36,8 +36,8 @@ The average precipitation is 0.217 inches per day in December
 The maximum precipitation is 4.43 inches on a single day in June
 The maximum precipitation is 6.42 inches on a single day in December
 
-img
+![precJune](https://user-images.githubusercontent.com/16723095/127360540-cc0ca9de-36f3-450e-a40c-7eaa49f65cf0.PNG)
 
-img
+![precDec](https://user-images.githubusercontent.com/16723095/127360567-068ffdde-8ea7-4830-8c0d-9029c912ad76.PNG)
 
 Even though December has a higher rainfall rate it’s still a great idea the opening of this shop so, let’s do it...
