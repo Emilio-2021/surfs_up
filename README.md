@@ -1,13 +1,43 @@
-# surfs_up
+# Surfs_up
 
-The written analysis has the following:
+## Overview of the statistical analysis:
+In one of my visit to Hawaii last year I discovered a new found passion for surfing and I've been trying to come up with a plan that will let me live in there forever; I finally come up with the idea of opening a Surf n' Shake shop serving surfboards and ice cream to locals and tourists and for this I need an investor to help me get this off the ground; W.Avy is a famous personality for his love of surfing and his able to jump into the shop as an investor after some weather concerns are cleared regarding the island of Oahu where I'd like to open our shop
 
-Overview of the statistical analysis:
+W. Avy wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
-The purpose of the analysis is well defined. (3 pt)
-Results:
+The main purpose of this project is to analyze the weather data that we already have to see if it is worth opening a surf shop on Oahu.
 
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
-Summary:
+## Results
+The results of this analysis are comprised from looking at annual temperature data from the months of June and December.
 
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
+### June
+The average temperature is 74.94 degrees Fahrenheit
+The minimum temperature is 64 degrees Fahrenheit
+The maximum temperature is 85 degrees Fahrenheit
+
+img
+
+### December
+The average temperature is 71.04 degrees Fahrenheit
+The minimum temperature is 56 degrees Fahrenheit
+The maximum temperature is 83 degrees Fahrenheit
+
+img
+
+## Summary
+There is an enjoyable average temperature in the months of June and December which are 6 months apart from each other which let me to the idea that for most months of the year there will be enjoyable temperature for visitors to come and use the surf shop, it looks to me that opening a surf shop would be a good investment.
+
+To better compare the two months and verify the two months were pleasant enough for surfing as well as going for an ice-cream, two more queries were performed to compared the precipitations in the two months as follows:
+
+The average precipitation is 0.136 inches per day in June
+The average precipitation is 0.217 inches per day in December
+50% of days in June have less than 0.02 inches of precipitation and 75% have less than 0.12 inches of precipitation
+50% of days in December have less than 0.02 inches of precipitation and 75% have less than 0.12 inches of precipitation
+The maximum precipitation is 4.43 inches on a single day in June
+The maximum precipitation is 6.42 inches on a single day in December
+
+img
+
+img
+
+Even though December has a higher rainfall rate it’s still a great idea the opening of this shop so, let’s do it...
